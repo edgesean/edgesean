@@ -1,22 +1,6 @@
+## Hey! I'm Sean, a full-stack developer from the U.S
 
-### Sean Dillon 
-
-
-##
-- 🔭 I’m currently working on the SwellByte web client and the SwellByte API
-- 🌱 I’m currently learning Jest and Testing Library
-- 💬 Ask me about Angular!
-- 📫 How to reach me: seandillon59@gmail.com
-
-## Technologies 
-
-![download 2](https://user-images.githubusercontent.com/43985841/119165691-0cd65f80-ba5e-11eb-85d0-4ad60ba8f987.png)
-![download-1 3](https://user-images.githubusercontent.com/43985841/119165695-0d6ef600-ba5e-11eb-95ad-c88605e032b8.png)
-![download-2 2](https://user-images.githubusercontent.com/43985841/119165697-0d6ef600-ba5e-11eb-8389-85caee2deda0.png)
-![download-4 2](https://user-images.githubusercontent.com/43985841/119165699-0e078c80-ba5e-11eb-977d-5a48e9f12b5f.png)
-![JavaScript-logo 1](https://user-images.githubusercontent.com/43985841/119165700-0e078c80-ba5e-11eb-9812-b421a2de1fb9.png)
-
-
+I'm a Full Stack Developer @ SwellByte and DevStack 
 
 ## I love 
 - 🚲 Mountain Biking
@@ -24,5 +8,24 @@
 - ⛷ Skiing
 - 🎣 Fishing
 - 🥾 Hiking
-- 🧗‍♂️ Climbing 
+- 🧗‍♂️ Climbing ).
+
+<img align="right" alt="illustration of web developer with laptop" src="./assets/undraw_web_developer_p3e5.svg" width="500" height="340" />
+
+### What I'm doing now
+
+- 🔭 I’m currently working on the SwellByte web client. Built in Angular
+- 🌱 I’m currently learning Swift/Java/Springboot
+- 💬 Ask me about Angular!
+
+### My Languages and tools
+
+<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" alt="SQL" src="https://img.icons8.com/color/344/angularjs.png"></code>
+<code><img height="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&v=4"></code>
+<code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
