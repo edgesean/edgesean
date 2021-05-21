@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer @ SwellByte and DevStack 
 
-## I love 
+### I love 
 - 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
 
 <img align="right" alt="illustration of web developer with laptop" src="https://oostou.com/assets/undraw_web_developer_p3e5.svg?format=webp" width="500" height="340" />
