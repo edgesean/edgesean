@@ -10,7 +10,7 @@ I'm a Full Stack Developer @ SwellByte and DevStack
 - 🥾 Hiking
 - 🧗‍♂️ Climbing ).
 
-<img align="right" alt="illustration of web developer with laptop" src="./assets/undraw_web_developer_p3e5.svg" width="500" height="340" />
+<img align="right" alt="illustration of web developer with laptop" src="https://oostou.com/assets/undraw_web_developer_p3e5.svg?format=webp" width="500" height="340" />
 
 ### What I'm doing now
 
