@@ -1,7 +1,7 @@
 
 ## Hey! I'm Sean, a full-stack developer from the U.S
 
-I'm a Full Stack Developer @ SwellByte and DevStack 
+I'm a Full Stack Developer [@SwellByte](https://github.com/SwellByte) and DevStack 
 
 ### I love 
 - 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
