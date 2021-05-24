@@ -3,17 +3,23 @@
 
 I'm a Full Stack Developer [@SwellByte](https://github.com/SwellByte) and [@DevStack](https://github.com/DevStack-LTD) 
 
-### What I'm doing now
+## What I'm doing now
 
  I’m currently working on the SwellByte web client in Angular
  I’m currently learning Spring boot and Java
+
+## Previous projects
+
+### [@DevStack](https://github.com/DevStack-LTD) web application
+ I was responsible for building parts of the front end in Angular, setting up API client service and implementing
+ a chat service with web sockets 
 
 
 ### Hobbies I enjoy
 - 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
 
 
-### My Languages and tools
+## My Languages and tools
 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
