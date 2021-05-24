@@ -3,16 +3,15 @@
 
 I'm a Full Stack Developer [@SwellByte](https://github.com/SwellByte) and DevStack 
 
-### I love 
-- 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
-
-<img align="right" alt="illustration of web developer with laptop" src="https://oostou.com/assets/undraw_web_developer_p3e5.svg?format=webp" width="500" height="340" />
-
 ### What I'm doing now
 
-- 🔭 I’m currently working on the SwellByte web client. Built in Angular
-- 🌱 I’m currently learning Swift/Java/Springboot
-- 💬 Ask me about Angular!
+ I’m currently working on the SwellByte web client in Angular
+ I’m currently learning Spring boot and Java
+
+
+### Hobbies I enjoy
+- 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
+
 
 ### My Languages and tools
 
