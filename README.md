@@ -1,11 +1,11 @@
 
-## Hey! I'm Sean, a full-stack developer from the U.S
+## Hey! I'm Sean, a full-stack developer from New Hampshire
 
-I'm a Full Stack Developer [@SwellByte](https://github.com/SwellByte) and [@DevStack](https://github.com/DevStack-LTD) 
+I'm a Full Stack Developer [@Mapleton Hill](https://github.com/mapletonhillmedia)
 
 ## What I'm doing now
 
- I’m currently working on the SwellByte web client in Angular
+ I’m currently working with Lambdas and other AWS services 
  I’m currently learning Spring boot and Java
 
 ## Previous projects
