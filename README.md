@@ -6,7 +6,7 @@ I'm a Full Stack Developer [@Mapleton Hill](https://github.com/mapletonhillmedia
 ## What I'm doing now
 
  I’m currently working with Lambdas and other AWS services 
- I’m currently learning Spring boot and Java
+
 
 ## Previous projects
 
