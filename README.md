@@ -10,7 +10,7 @@ I'm a Full Stack Developer [@Mapleton Hill](https://github.com/mapletonhillmedia
  I was responsible for building parts of the front end in Angular, setting up API client service and implementing
  a chat service with web sockets 
  
- ### [@SwellByte] (https://github.com/swellbyte)
+ ### [@SwellByte](https://github.com/swellbyte)
  I worked on the front end mobile application and the backend forecast API. 
 
 
