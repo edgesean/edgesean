@@ -4,14 +4,10 @@
 I'm a Full Stack Developer [@Mapleton Hill](https://github.com/mapletonhillmedia)
 
 
-## Previous projects
+## Personal projects
 
-### [@DevStack](https://github.com/DevStack-LTD) web application
- I was responsible for building parts of the front end in Angular, setting up API client service and implementing
- a chat service with web sockets 
- 
  ### [@SwellByte](https://github.com/swellbyte)
- I worked on the front end mobile application and the backend forecast API. 
+ Surf Forecasting website. 
 
 
 ### Hobbies I enjoy
