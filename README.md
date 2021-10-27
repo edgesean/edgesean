@@ -1,7 +1,7 @@
 
 ## Hey! I'm Sean, a full-stack developer from New Hampshire
 
-I'm a Full Stack Developer [@Mapleton Hill](https://github.com/mapletonhillmedia)
+I'm a Full Stack Software Engineer [@Mapleton Hill](https://github.com/mapletonhillmedia)
 
 
 ## Personal projects
