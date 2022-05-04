@@ -10,7 +10,7 @@ I'm a Full Stack Software Engineer [@Mapleton Hill](https://github.com/mapletonh
  Surf Forecasting website. 
 
 
-### Hobbies I enjoy
+### Hobbies
 - 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
 
 
