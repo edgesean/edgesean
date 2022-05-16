@@ -1,13 +1,6 @@
 
-## Hey! I'm Sean, a full-stack developer from New Hampshire
+## Sean Dillon,  full-stack software engineer from New Hampshire
 
-I'm a Full Stack Software Engineer [@Mapleton Hill](https://github.com/mapletonhillmedia)
-
-
-## Personal projects
-
- ### [@SwellByte](https://github.com/swellbyte)
- Surf Forecasting website. 
 
 
 ### Hobbies
