@@ -27,5 +27,6 @@
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt"Otcoput" src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white"
 </p>
 
