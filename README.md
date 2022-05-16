@@ -1,6 +1,6 @@
 
 ## Sean Dillon
-full-stack software engineer from New Hampshire
+Full Stack software engineer from New Hampshire
 
 
 
