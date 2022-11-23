@@ -2,8 +2,6 @@
 ## Sean Dillon
 Full Stack software engineer from New Hampshire
 
-Bitbucket- https://bitbucket.org/seanmapleton/
-
 
 
 ### Hobbies
